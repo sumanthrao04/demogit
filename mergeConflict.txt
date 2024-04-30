@@ -1,0 +1,1 @@
+After merging, the dem_prediction_module.py looks like below. The extra pass statement is deleted. but as you can see lines 4 to 7 are different in the 2 files above so why did they NOT give a merge conflict? I want to be able to choose which of the changes I want to keep.Preferrably the one from demand_prediction_module branch
