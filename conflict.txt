@@ -1,0 +1,1 @@
+Merge conflicts in git happen, when two branches were changed on the same line or in the same content of a file before a merge. If you just extend a file or append something, git usually just figures it out by itself.
